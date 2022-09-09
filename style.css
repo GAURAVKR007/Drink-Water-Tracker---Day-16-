@@ -49,6 +49,7 @@ h3 {
     cursor: pointer;
     font-size: 14px;
     align-items: center;
+    font-weight: bold;
     justify-content: center;
     text-align: center;
     margin: 5px;
@@ -85,6 +86,7 @@ h3 {
 
 .remained small {
     font-size: 12px;
+    font-weight: bold;
 }
 
 .percentage {
